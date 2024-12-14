@@ -1,0 +1,27 @@
+.title {
+  font-size: 24px;
+  color: var(--primary-color);
+  margin-bottom: 5px;
+}
+
+.stats {
+  font-size: 20px;
+  color: rgb(249, 0, 241);
+  margin-bottom: 4px;
+}
+
+.stats:last-child {
+  margin-bottom: none;
+}
+
+.good {
+  color: rgb(0, 183, 0);
+}
+
+.neutral {
+  color: orange;
+}
+
+.bad {
+  color: red;
+}

@@ -1,0 +1,10 @@
+.title {
+  color: var(--primary-color);
+  font-size: 48px;
+}
+
+.text {
+  color: rgb(243, 1, 223);
+  font-size: 24px;
+  margin-bottom: 40px;
+}

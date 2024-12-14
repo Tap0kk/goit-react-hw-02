@@ -48,4 +48,5 @@ table {
 
 body {
   background-color: rgb(67, 67, 67);
+  display: block;
 }
